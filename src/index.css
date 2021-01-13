@@ -1,0 +1,190 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar {
+  background-color: rgb(255, 255, 255);
+}
+
+.navbar-brand {
+  font-size: 2px; 
+  columns: rgb(48, 48, 117);
+  text-transform: capitalize;
+}
+
+.navbar a {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+
+.active_manue {
+
+  font-weight: bold;
+  border-bottom: 2px solid rgb(26, 111, 114);
+}
+
+#header {
+  margin-top: 60px;
+}
+
+.compani {
+  color: rgb(56, 138, 206);
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #5185d3;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {
+  background-color: #e06127
+}
+
+#image {
+  
+  position: relative;
+  animation: mymove 5s infinite;
+  text-align: center;
+  max-width: 28pc;
+
+}
+
+@keyframes mymove {
+  from {top: 0px;}
+  to {top: 20px;}
+}
+
+#home {
+  text-align: left;
+}
+
+#img {
+
+  position: relative;
+  animation: mymove 5s infinite;
+  margin-left: 50px;
+ 
+}
+
+#A {
+  
+  margin-left: 50px;
+  margin-top: 50px;
+   
+}
+
+.card-text {
+  font-size: 10px;
+}
+
+.click {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #477cdd;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.click:hover {background-color: #4f86d8}
+
+.click:active {
+  background-color: #688dd1;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.serviecs {
+  color: rgb(103, 137, 175);
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+
+@media (max-width: 600px) {
+    
+    #image {
+        
+      position: relative;
+      animation: mymove 5s infinite;
+      text-align: left;
+      max-width: 22pc;
+     
+
+    }
+  
+   }
+
+
+/* for servies */
+
+.id1 {
+  max-height: 16pc;
+  max-width: 12pc;
+}
+
+.id2 {
+  max-height: 21pc;
+  
+}
+
+.id3 {
+  max-height: 17pc;
+  max-width: 09pc;
+  
+}
+
+.id4 {
+  max-height: 19pc;
+  max-width: 11pc;
+  
+}
+
+
+.id8 {
+
+  max-height: 32pc;
+  max-width: 10pc;
+  
+}
+
+.id7 {
+
+  max-height: 15pc;
+  max-width: 20pc;
+  
+}
