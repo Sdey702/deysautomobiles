@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/deysautomobiles/static/css/main.a0b758b0.chunk.css",
+    "main.js": "/deysautomobiles/static/js/main.7364132f.chunk.js",
+    "main.js.map": "/deysautomobiles/static/js/main.7364132f.chunk.js.map",
+    "runtime-main.js": "/deysautomobiles/static/js/runtime-main.1ae5b371.js",
+    "runtime-main.js.map": "/deysautomobiles/static/js/runtime-main.1ae5b371.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/deysautomobiles/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.be7ae1cf.chunk.js": "/deysautomobiles/static/js/2.be7ae1cf.chunk.js",
+    "static/js/2.be7ae1cf.chunk.js.map": "/deysautomobiles/static/js/2.be7ae1cf.chunk.js.map",
+    "index.html": "/deysautomobiles/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/deysautomobiles/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.a0b758b0.chunk.css.map": "/deysautomobiles/static/css/main.a0b758b0.chunk.css.map",
+    "static/js/2.be7ae1cf.chunk.js.LICENSE.txt": "/deysautomobiles/static/js/2.be7ae1cf.chunk.js.LICENSE.txt",
+    "static/media/BBB.88271a66.jpg": "/deysautomobiles/static/media/BBB.88271a66.jpg",
+    "static/media/Scooto.c58a4a8d.png": "/deysautomobiles/static/media/Scooto.c58a4a8d.png",
+    "static/media/aaa.8a07014e.jpeg": "/deysautomobiles/static/media/aaa.8a07014e.jpeg",
+    "static/media/goben.609b9d7a.jpg": "/deysautomobiles/static/media/goben.609b9d7a.jpg",
+    "static/media/home.7d946b95.jpg": "/deysautomobiles/static/media/home.7d946b95.jpg",
+    "static/media/lll.fa6d77cd.jpg": "/deysautomobiles/static/media/lll.fa6d77cd.jpg",
+    "static/media/s2t.85e908ed.jpg": "/deysautomobiles/static/media/s2t.85e908ed.jpg",
+    "static/media/servo40.30f72f6f.jpg": "/deysautomobiles/static/media/servo40.30f72f6f.jpg",
+    "static/media/st20.bd8f3a88.jpeg": "/deysautomobiles/static/media/st20.bd8f3a88.jpeg",
+    "static/media/syn.5cd4684a.png": "/deysautomobiles/static/media/syn.5cd4684a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ae5b371.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.be7ae1cf.chunk.js",
+    "static/css/main.a0b758b0.chunk.css",
+    "static/js/main.7364132f.chunk.js"
+  ]
+}
